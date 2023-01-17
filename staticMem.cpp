@@ -1,4 +1,5 @@
 //C++ program to demonstrate the working of a static class member
+//here count is the static class member
 
 #include <iostream>
 using namespace std;
